@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SematecTasks</string>
+    <string name="please_enter_your_first_name">Please enter your First Name</string>
+    <string name="please_enter_your_last_name">Please enter your Last Name</string>
+    <string name="please_enter_your_age">Please enter your Age</string>
+    <string name="please_enter_your_email">Please enter your Email</string>
+    <string name="send">S E N D</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="your_age">Your Age</string>
+    <string name="email_address">Email Address</string>
+    <string name="no">NO</string>
+    <string name="yes">yes</string>
 </resources>
